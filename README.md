@@ -1,2 +1,2 @@
 # SPPU_SE_ADSL-Practicals
-SPPU Computer Department Second year Advanced Data Structures Practicals
+All SPPU Second Year Computer Engineering Lab Practicals of Advance Data Structures Lab
